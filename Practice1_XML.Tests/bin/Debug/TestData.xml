@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PasswordDetails>
+    <Password data="" score="0"/>
+    <Password data="passwo" score="1"/>
+    <Password data="Passwo" score="2"/>
+    <Password data="Passw0" score="3"/>
+    <Password data="P@ssw0" score="4"/>
+    <Password data="P@ssw0rd" score="5"/>
+</PasswordDetails>

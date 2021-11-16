@@ -1,0 +1,6 @@
+C:\Users\ender\RiderProjects\TPM_Practice6\Practice1_XML\bin\Debug\Practice1_XML.dll
+C:\Users\ender\RiderProjects\TPM_Practice6\Practice1_XML\bin\Debug\Practice1_XML.pdb
+C:\Users\ender\RiderProjects\TPM_Practice6\Practice1_XML\obj\Debug\Practice1_XML.csproj.AssemblyReference.cache
+C:\Users\ender\RiderProjects\TPM_Practice6\Practice1_XML\obj\Debug\Practice1_XML.csproj.CoreCompileInputs.cache
+C:\Users\ender\RiderProjects\TPM_Practice6\Practice1_XML\obj\Debug\Practice1_XML.dll
+C:\Users\ender\RiderProjects\TPM_Practice6\Practice1_XML\obj\Debug\Practice1_XML.pdb
